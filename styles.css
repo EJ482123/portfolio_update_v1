@@ -98,6 +98,7 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+
 .card:hover {
   border-color: #0399ff;
 }
@@ -171,6 +172,21 @@ ul.skills {
 }
 
 .websites:hover {
+  border-color: #0399ff;
+}
+
+.dogs {
+  margin: 20px;
+  padding: 20px 40px 40px;
+  min-width: 700px;
+  text-align: center;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+
+.dogs:hover {
   border-color: #0399ff;
 }
 
